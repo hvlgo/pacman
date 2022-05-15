@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+problem.pdf
+hw?.pdf
+*.zip
+search/__pycache__/
+report/
+dir/
